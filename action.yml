@@ -1,0 +1,7 @@
+name: 'TestAppCool123'
+description: 'Some App'
+runs:
+  using: "composite"
+  steps:
+    run: echo "Hello World"
+    shell: sh
